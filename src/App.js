@@ -1,7 +1,6 @@
-import logo from './logo.svg';
 import './App.css';
-import Header from './components/Header/Header';
 import Zyms from './components/Zyms/Zyms';
+import Info from './components/Info/Info';
 
 function App() {
   return (
@@ -11,7 +10,7 @@ function App() {
           <Zyms></Zyms>
         </div>
         <div className="time-calculation-container">
-          <h2>i am not alone </h2>
+          <Info></Info>
         </div>
       </div>
     </div>

@@ -1,7 +1,18 @@
 
 .activity-container{
   display: grid;
-  grid-template-columns: 3fr 1fr;
+  grid-template-columns: 4fr 2fr;
+  position: relative;
+}
+
+.zym-items-container{
   width: 90%;
   margin: auto;
+}
+
+.time-calculation-container{
+  position: sticky;
+  width: 100%;
+  padding: 0 100px;
+  top: 0;
 }
