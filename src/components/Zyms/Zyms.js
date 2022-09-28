@@ -1,5 +1,5 @@
 import React from 'react';
-import { Exercises } from '../Exercises/Exercises';
+import Exercises from '../Exercises/Exercises';
 import Header from '../Header/Header';
 
 const Zyms = () => {

@@ -31,4 +31,5 @@ const Exercises = () => {
     );
 };
 
-export {Exercises};
+export default Exercises;
+export de
