@@ -1,5 +1,18 @@
 .exercises-container{
     display: grid;
+    grid-template-columns: 5fr 2fr;
+    position: relative;
+}
+
+.expart-container{
+    display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 30px;
+    padding: 50px 70px;
+}
+
+.timer-container{
+    width: 100%;
+    position: sticky;
+    top: 0;
 }

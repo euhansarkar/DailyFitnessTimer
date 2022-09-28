@@ -1,6 +1,7 @@
 import React from 'react';
 
-const ExDetails = () => {
+const ExDetails = (props) => {
+    console.log(props);
     return (
         <div className='my-4'>
             <h3>Exercise Details</h3>
