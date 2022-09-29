@@ -11,11 +11,11 @@ console.log(breakTime);
             <div>
             <h4 className='my-4'>add a break</h4>
             <div className="break-container d-flex">
-                <button onClick={(e) => setBreakTime(e)} className='mx-2'>10</button>
-                <button id='two' className='mx-2'>20</button>
-                <button id='three' className='mx-2'>30</button>
-                <button id='four' className='mx-2'>40</button>
-                <button id='five' className='mx-2'>50</button>
+                <button onClick={(e) => setBreakTime(e.target.outerText)} className='mx-2'>10</button>
+                <button onClick={(e) => setBreakTime(e.target.outerText)} className='mx-2'>20</button>
+                <button onClick={(e) => setBreakTime(e.target.outerText)} className='mx-2'>30</button>
+                <button onClick={(e) => setBreakTime(e.target.outerText)} className='mx-2'>40</button>
+                <button onClick={(e) => setBreakTime(e.target.outerText)} className='mx-2'>50</button>
             </div>
         </div>
             <h3 className='mt-3'>Exercise Details</h3>
@@ -26,7 +26,7 @@ console.log(breakTime);
                 </div>
                 <div className="ex-break d-flex justify-content-evenly">
                     <h5>Break time</h5>
-                    <p>200seconds</p>
+                    <p><span className='fw-bold fs-5'>{breakTime}</span>seconds</p>
                 </div>
             </div>
         </div>
