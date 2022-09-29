@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import BtnCompleted from "../BtnCompleted/BtnCompleted";
+import Content from "../Content/Content";
 import ExDetails from "../ExDetails/ExDetails";
 import Exercise from "../Exercise/Exercise";
 import Profile from "../Profile/Profile";
@@ -36,6 +37,7 @@ const Exercises = () => {
         <ExDetails timer={timer}></ExDetails>
         <BtnCompleted></BtnCompleted>
       </div>
+      <Content></Content>
     </div>
   );
 };
