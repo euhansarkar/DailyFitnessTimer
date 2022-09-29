@@ -1,10 +1,24 @@
-import React from 'react';
+import React, { useState } from 'react';
+import './ExDetails.css'
 
 const ExDetails = ({timer}) => {
-    console.log(timer);
+
+    const [breakTime, setBreakTime] = useState(0);
+console.log(breakTime);
+
     return (
         <div className='my-4'>
-            <h3>Exercise Details</h3>
+            <div>
+            <h4 className='my-4'>add a break</h4>
+            <div className="break-container d-flex">
+                <button onClick={(e) => setBreakTime(e)} className='mx-2'>10</button>
+                <button id='two' className='mx-2'>20</button>
+                <button id='three' className='mx-2'>30</button>
+                <button id='four' className='mx-2'>40</button>
+                <button id='five' className='mx-2'>50</button>
+            </div>
+        </div>
+            <h3 className='mt-3'>Exercise Details</h3>
             <div className="ex-details-info">
                 <div className="ex-time d-flex justify-content-evenly">
                     <h5>Exercise time</h5>

@@ -1,9 +1,7 @@
 import React, { useEffect, useState } from "react";
-import Break from "../Break/Break";
 import BtnCompleted from "../BtnCompleted/BtnCompleted";
 import ExDetails from "../ExDetails/ExDetails";
 import Exercise from "../Exercise/Exercise";
-import Header from "../Header/Header";
 import Profile from "../Profile/Profile";
 import "./Exercises.css";
 
@@ -35,7 +33,6 @@ const Exercises = () => {
       </div>
       <div className="timer-container">
         <Profile></Profile>
-        <Break></Break>
         <ExDetails timer={timer}></ExDetails>
         <BtnCompleted></BtnCompleted>
       </div>

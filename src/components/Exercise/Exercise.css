@@ -9,6 +9,7 @@
 .exercise-container img{
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
+    height: 200px;
 }
 
 .exercise-info{

@@ -1,0 +1,12 @@
+.break-container button{
+    border-radius: 50%;
+    padding: 7px;
+    background-color: skyblue;
+    width: auto;
+    height: auto;
+    border: none;
+}
+
+.break-container button:hover{
+    background-color: magenta;
+}

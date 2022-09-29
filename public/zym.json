@@ -1,66 +1,65 @@
 [
-    {
-      "id": "6334691e07b1eaa6b366246b",
-      "image": "https://loremflickr.com/cache/resized/65535_51788425799_5d82120eb0_320_240_g.jpg",
-      "time": 36,
-      "name": "Finch Edwards",
-      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. "
-    },
-    {
-      "id": "6334691ea012b504c8736f95",
-      "image": "https://loremflickr.com/cache/resized/65535_51788425799_5d82120eb0_320_240_g.jpg",
-      "time": 26,
-      "name": "Lynne Russell",
-      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. "
-    },
-    {
-      "id": "6334691fd67591fc385a1c4d",
-      "image": "https://loremflickr.com/cache/resized/65535_51788425799_5d82120eb0_320_240_g.jpg",
-      "time": 36,
-      "name": "Morgan Cameron",
-      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. "
-    },
-    {
-      "id": "6334691f30267eeba38641d2",
-      "image": "https://loremflickr.com/cache/resized/65535_51788425799_5d82120eb0_320_240_g.jpg",
-      "time": 39,
-      "name": "House Sykes",
-      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. "
-    },
-    {
-      "id": "6334691f4a1a3098bbeec9a2",
-      "image": "https://loremflickr.com/cache/resized/65535_51788425799_5d82120eb0_320_240_g.jpg",
-      "time": 35,
-      "name": "Abigail Russo",
-      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. "
-    },
-    {
-      "id": "6334691ea08s92j4c8736f95",
-      "image": "https://loremflickr.com/cache/resized/65535_51788425799_5d82120eb0_320_240_g.jpg",
-      "time": 26,
-      "name": "Lynne Russell",
-      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. "
-    },
-    {
-      "id": "6334691fd67591fc3892slwf",
-      "image": "https://loremflickr.com/cache/resized/65535_51788425799_5d82120eb0_320_240_g.jpg",
-      "time": 36,
-      "name": "Morgan Cameron",
-      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. "
-    },
-    {
-      "id": "6334691f30267eeba3k49sls",
-      "image": "https://loremflickr.com/cache/resized/65535_51788425799_5d82120eb0_320_240_g.jpg",
-      "time": 39,
-      "name": "House Sykes",
-      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. "
-    },
-    {
-      "id": "6334691f4a1a3098bbsl39s3",
-      "image": "https://loremflickr.com/cache/resized/65535_51788425799_5d82120eb0_320_240_g.jpg",
-      "time": 35,
-      "name": "Abigail Russo",
-      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. "
-    }
-  ]
-  
+  {
+    "id": "6334691e07b1eaa6b366246b",
+    "image": "./images/push_up.jpg",
+    "time": 36,
+    "name": "Push Up",
+    "description": "The push-up is a common calisthenics exercise beginning from the prone position. By raising and lowering the body using the arms, push-ups exercise the pectoral muscles, triceps, and anterior deltoids, with ancillary benefits to the rest of the deltoids, serratus anterior, coracobrachialis and the midsection as a whole"
+  },
+  {
+    "id": "6334691ea012b504c8736f95",
+    "image": "./images/pull_up.jpg",
+    "time": 26,
+    "name": "Pull Up",
+    "description": "A pull-up is an upper-body strength exercise. The pull-up is a closed-chain movement where the body is suspended by the hands and pulls up. As this happens, the elbows flex and the shoulders adduct and extend to bring the elbows to the torso. Pull-ups build up several muscles of the upper body, including the latissimus dorsi, biceps brachii and back muscles. A pull-up may be performed with overhand (pronated),"
+  },
+  {
+    "id": "6334691fd67591fc385a1c4d",
+    "image": "./images/bench_press.jpg",
+    "time": 36,
+    "name": "Bench press",
+    "description": "The bench press, or chest press, is a weight training exercise in which the trainee presses a weight upwards while lying on a weight training bench. Although the bench press is a full-body exercise, the muscles primarily used are the pectoralis major, the anterior deltoids, and the triceps, among other stabilizing muscles. A barbell is generally used to hold the weight, but a pair of dumbbells can also be used"
+  },
+  {
+    "id": "6334691f30267eeba38641d2",
+    "image": "./images/plank.png",
+    "time": 39,
+    "name": "Plank",
+    "description": "The plank is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time. The most common plank is the forearm plank which is held in a push-up-like position, with the body's weight borne on forearms, elbows, and toes. Many variations exist such as the side plank and the reverse plank "
+  },
+  {
+    "id": "6334691f4a1a3098bbeec9a2",
+    "image": "./images/Lunge.jpg",
+    "time": 35,
+    "name": "Lunge",
+    "description": "A lunge can refer to any position of the human body where one leg is positioned forward with knee bent and foot flat on the ground while the other leg is positioned behind. It is used by athletes in cross-training for sports, by weight-trainers as a fitness exercise, and by practitioners of yoga as part of an asana regimen."
+  },
+  {
+    "id": "6334691ea08s92j4c8736f95",
+    "image": "./images/pull_down.jpg",
+    "time": 26,
+    "name": "Pull-down",
+    "description": "The pull-down exercise is a strength training exercise designed to develop the latissimus dorsi muscle. It performs the functions of downward rotation and depression of the scapulae combined with adduction and extension of the shoulder joint. "
+  },
+  {
+    "id": "6334691fd67591fc3892slwf",
+    "image": "./images/Squats.jpg",
+    "time": 36,
+    "name": "Squats",
+    "description": "A squat is a strength exercise in which the trainee lowers their hips from a standing position and then stands back up. During the descent of a squat, the hip and knee joints flex while the ankle joint dorsiflexes; conversely the hip and knee joints extend and the ankle joint plantarflexes when standing up."
+  },
+  {
+    "id": "6334691f30267eeba3k49sls",
+    "image": "./images/Cardio.jpg",
+    "time": 39,
+    "name": "Cardio",
+    "description": "Aerobic exercise is physical exercise of low to high intensity that depends primarily on the aerobic energy-generating process. Aerobetic is defined as relating to, involving, or requiring oxygen, and refers to the use of oxygen to meet energy demands during exercise via aerobic metabolism adequately."
+  },
+  {
+    "id": "6334691f4a1a3098bbsl39s3",
+    "image": "./images/Bent_over_row.jpg",
+    "time": 35,
+    "name": "Bent-over row",
+    "description": "A bent-over row is a weight training exercise that targets a variety of back muscles. Which ones are targeted varies on form. The bent over row is often used for both bodybuilding and powerlifting"
+  }
+]

@@ -10,7 +10,7 @@ const Exercise = ({addTimer, exercise}) => {
             <img src={image} className="img-fluid" alt="" />
             <div className="exercise-info">
                 <h2 className='participent-name'>{name}</h2>
-                <p className="zym-description">{description}</p>
+                <p className="zym-description">{description.slice(0, 150)}</p>
                 <h5>Time Required: {time}m</h5>
             </div>
             <div className='d-flex'>
