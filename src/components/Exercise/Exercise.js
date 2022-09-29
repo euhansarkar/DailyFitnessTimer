@@ -14,7 +14,7 @@ const Exercise = ({addTimer, exercise}) => {
                 <h5>Time Required: {time}m</h5>
             </div>
             <div className='d-flex'>
-                <button onClick={() => addTimer(exercise)} className='btn-finish'> <span className='me-2'>add to finished</span>
+                <button onClick={() => addTimer(time)} className='btn-finish'> <span className='me-2'>add to finished</span>
                 <FontAwesomeIcon icon={faArrowRight}></FontAwesomeIcon>
                 </button>
                 

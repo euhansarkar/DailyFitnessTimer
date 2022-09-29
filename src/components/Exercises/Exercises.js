@@ -9,7 +9,7 @@ import "./Exercises.css";
 
 const Exercises = () => {
   const [exercises, setExercises] = useState([]);
-  const [timer, setTimer] = useState([]);
+  const [timer, setTimer] = useState(0);
 
   useEffect(() => {
     fetch(`zym.json`)
@@ -17,9 +17,8 @@ const Exercises = () => {
       .then((data) => setExercises(data));
   }, []);
 
-  const addTimerToDetails = (exercise) => {
-    console.log(exercise);
-    const newTimer = [...timer, exercise];
+  const addTimerToDetails = (time) => {
+    const newTimer = (parseInt(timer) + parseInt(time));
     setTimer(newTimer);
   };
 
