@@ -6,8 +6,8 @@ const Profile = () => {
             <div>
             <img src="" alt="" />
             <div className="intro">
-                <h5>Zahid Hossain</h5>
-                <p>sydndy, australia</p>
+                <h5>Euhan Sarkar</h5>
+                <p>Saint Petersburg, Russia</p>
             </div>
             </div>
             <div className="d-flex gap-5">

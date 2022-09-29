@@ -3,6 +3,7 @@ import BtnCompleted from "../BtnCompleted/BtnCompleted";
 import Content from "../Content/Content";
 import ExDetails from "../ExDetails/ExDetails";
 import Exercise from "../Exercise/Exercise";
+import Header from "../Header/Header";
 import Profile from "../Profile/Profile";
 import "./Exercises.css";
 

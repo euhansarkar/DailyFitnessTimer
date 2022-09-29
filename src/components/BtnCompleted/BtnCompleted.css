@@ -1,7 +1,13 @@
 
 button{
-    background-color: maroon;
+    background-color: magenta;
     width: 100%;
     padding: 10px;
     border-radius: 10px;
+    color: magenta;
+    font-weight: 700;
+}
+
+.task-btn{
+    color: white;
 }
